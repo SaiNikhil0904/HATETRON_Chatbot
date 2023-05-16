@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">228854299839-ggo8o2po1dq36a1b1bv5gn8m8p95c3o1.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">228854299839</string>
+    <string name="google_api_key" translatable="false">AIzaSyDxpI1pzoAzjYgnOpzqvkOlQr4UWGUazhE</string>
+    <string name="google_app_id" translatable="false">1:228854299839:android:b8d78cb2d208f3dd321a0a</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDxpI1pzoAzjYgnOpzqvkOlQr4UWGUazhE</string>
+    <string name="google_storage_bucket" translatable="false">hatespeechdetection-bot.appspot.com</string>
+    <string name="project_id" translatable="false">hatespeechdetection-bot</string>
+</resources>
