@@ -4,6 +4,8 @@ This study introduces HateTron, a chatbot for detecting Hate Speech, Offensive L
 
 For my Project - 2. My team and I had developed a Mobile Application called HATETRON.
 
+YouTube Link: https://youtu.be/4T3dwnBtBdA
+
 ![image](https://github.com/SaiNikhil0904/Project_2_HATETRON/assets/98106917/8789f7ad-2ef2-4b32-867e-9821d0404abe)
 
 
