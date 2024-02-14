@@ -2,7 +2,7 @@
 
 This study introduces HateTron, a chatbot for detecting Hate Speech, Offensive Language, and Safe Speech  that achieves 90% accuracy by using logistic regression. The study's background is the growing demand for efficient automated systems to find/identify and report/address hate-speech on internet.
 
-For my Project - 2. My team and I had developed a Mobile Application called HATETRON.
+For my Project - 2. My team and I, Godavarthi Sai Nikhil, had developed a Mobile Application called HATETRON.
 
 YouTube Link: https://youtu.be/4T3dwnBtBdA
 
